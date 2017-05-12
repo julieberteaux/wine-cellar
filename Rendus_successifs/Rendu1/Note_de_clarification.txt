@@ -1,0 +1,137 @@
+Note de clarification
+
+file://localhost/Volumes/gestion_projet/linio_projet/site/cp1bout1...
+
+Note de clarification
+
+I) Contexte
+Présenter brièvement l'organisme client et les origines du projet.
+Il peut être utile de donner aux acteurs du projet des informations relatives à son
+environnement pour en faciliter la compréhension.
+
+II) Définition du projet et objectifs
+1- Définition du projet
+Décrire en quelques phrases le projet : à quel problème identifié entend-il répondre
+?
+
+2- Objectifs visés
+Traduire la définition du projet en objectifs opérationnels.
+Méthode : Un énoncé d'objectif doit comporter un verbe d'action à l'infinitif
+et un objet. Il indique également ses propres modalités d'évaluation.
+
+3- Début du projet
+Indiquer la date de lancement officiel du projet.
+
+4- Fin du projet
+Indiquer à quelle date le produit du projet doit être livré.
+
+5- Budget du projet
+Indiquer quel est le budget alloué au projet.
+
+III) Acteurs du projet
+Expliciter les rôles et responsabilités des principaux acteurs impliqués.
+
+1- Maître d'ouvrage
+
+1 of 3
+
+1/07/08 16:03
+
+Note de clarification
+
+file://localhost/Volumes/gestion_projet/linio_projet/site/cp1bout1...
+
+Indiquer les noms et fonction des personnes appartenant à l'entité maître
+d'ouvrage.
+Attention : L'entité maître d'ouvrage n'est pas obligatoirement une
+personne physique (exemple : le comité de pilotage).
+Attention : L'entité maître d'ouvrage peut être interne ou externe.
+
+2- Maître d'oeuvre
+Indiquer les noms et fonctions du maître d'oeuvre : le chef de projet.
+
+3- Compétences nécessaires
+Elaborer la liste des compétences identifiées comme nécessaires à la réalisation du
+projet.
+Localiser ces compétences dans l'entreprise.
+
+Compétence
+
+Lister les
+compétences
+nécessaires
+
+Service
+
+Identifier le service
+au sein duquel on
+pourra trouver
+chacune de ces
+compétences
+
+Responsable
+
+Donner le nom
+du
+responsable
+de ce service
+
+Personne pressentie
+
+Remarque
+
+Donner le nom de la Ajouter des
+(des) personne(s)
+commentaires
+ayant cette
+si nécessaire
+compétence et
+susceptible(s) de
+rejoindre l'équipe
+projet
+
+4- Partenaires
+Indiquer les noms et rôles des entités partenaires.
+
+IV) Produit du projet
+Spécifier le ou les produit(s) du projet de manière détaillée.
+
+Attention : Le produit du projet peut aussi bien prendre la forme d'une entité
+matérielle que d'un service ou d'une organisation. Il peut lui-même se
+composer de livrables de différentes natures (matériel, service,
+organisation....)
+
+V) Risques
+Signaler les risques auxquels le projet peut être exposé.
+
+VI) Contraintes à respecter
+
+2 of 3
+
+1/07/08 16:03
+
+Note de clarification
+
+file://localhost/Volumes/gestion_projet/linio_projet/site/cp1bout1...
+
+1- Contraintes de délais
+Indiquer la date de livraison des produits, les délais intermédiaires, etc.
+
+2- Contraintes de coûts
+Indiquer les contraintes liées au budget du projet.
+
+3- Contraintes de performances
+Formaliser les objectifs de qualité assignés au projet.
+Attention : Les performances peuvent aussi bien concerner les produits du
+projet que la gestion du projet.
+
+VII) Annexe
+1- Authentification
+Date et signature du chef de projet
+Attention : Ce document engage le chef de projet
+
+3 of 3
+
+1/07/08 16:03
+
+
